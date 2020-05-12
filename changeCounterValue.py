@@ -17,4 +17,5 @@ def change_value(key, value):
             text.write(str(key) + '  :  ' + str(value // 2) + '\n')
     print('Updated the file.')
 #Must be double the desired amount
-change_value('Re:Re: - 2016 Rerecorded  -  ASIAN KUNG-FU GENERATION', 2)
+
+#change_value(your_key, your_value)
