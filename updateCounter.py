@@ -1,3 +1,5 @@
+#Updates the pickle file with new song counts.
+
 import pickle
 from datetime import datetime
 

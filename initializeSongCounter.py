@@ -1,3 +1,5 @@
+#Initializes the counter dictionary and stores it in a pickle file.
+
 import pickle
 
 song_counter = {}
