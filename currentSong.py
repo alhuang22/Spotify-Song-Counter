@@ -15,8 +15,8 @@ else:
     print('Usage: %s username' % (sys.argv[0],))
     sys.exit()
 scope = 'user-read-currently-playing'
-token = util.prompt_for_user_token(username, scope, client_id='00e7ddb7fe1844bba151f6898d13909d',
-                                    client_secret='c32ded404f61477b984795ad6eeafc3a',
+token = util.prompt_for_user_token(username, scope, client_id='PASTE CLIENT ID HERE',
+                                    client_secret='PASTE CLIENT SECRET HERE',
                                     redirect_uri='http://google.com/')
 
 
